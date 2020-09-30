@@ -1,3 +1,9 @@
+.settings
+.project
+.vscode
+.classpath
+target/**
+
 # Compiled class file
 *.class
 
